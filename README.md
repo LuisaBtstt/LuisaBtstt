@@ -37,7 +37,7 @@ if (you === "Need Developer") {
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQzamEyeTVkbW1tbmEzdGduNjduZWdyYnNldnhsa2o1Z3ptOWkzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KKB54xpucNE4M/giphy.webp" alt="Studio Ghibli Character" width="350px"/>
 </td>
 
-</tr> </table> </div> <div style="text-align: center;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZuZXgzcXF6MnRkeHZudXhpNTR6ZXBkYmgyc292Mmk5ajA2ZmZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdTyox6pIqyCLgQ/giphy.webp" alt="New Image" width="1000px"/> </div>
+</tr> </table> </div> <div style="text-align: center;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZuZXgzcXF6MnRkeHZudXhpNTR6ZXBkYmgyc292Mmk5ajA2ZmZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdTyox6pIqyCLgQ/giphy.webp" alt="New Image" width="971px"/> </div>
 
 <div align="center">
 
