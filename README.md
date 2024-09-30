@@ -20,9 +20,9 @@
 document.write("Hi!!! How are you? 😊");
 
 const WhoAmI = {
-  code: ["JavaScript", "CSS", "ReactJs", "C#"],
+  code: ["JavaScript", "Java", "Python", "Sql", "Angular", "Spring boot"],
   softSkills: ["Communicative", "TimeManagement", "Teamwork"],
-  loves: ["books", "cats", "coding", "games", "coffee", "k-pop", "Anime"]
+  loves: ["books", "cats", "coding", "games", "coffee", "rock", "anime"]
 };
 
 if (you === "Need Developer") {
