@@ -1,16 +1,35 @@
-## Hi there 👋
+![Banner Image](panqueca)
 
-<!--
-**LuisaBtstt/LuisaBtstt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my profile
+**I'm Luisa**  
+Backend Developer🧡
 
-Here are some ideas to get you started:
+<div style="display: flex; align-items: center;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+
+```javascript
+document.write("Hi!!! How are you? 😊");
+
+const WhoAmI = {
+  code: ["JavaScript", "CSS", "ReactJs", "C#"],
+  softSkills: ["Communicative", "TimeManagement", "Teamwork"],
+  loves: ["books", "cats", "coding", "games", "coffee", "k-pop", "Studio Ghibli"]
+};
+
+if (you === "Need Developer") {
+  sendMeEmail("luisaBttst@gmail.com");
+} else {
+  inviteYou("See my portfolio");
+}
+
+```
+</td>
+<td>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQzamEyeTVkbW1tbmEzdGduNjduZWdyYnNldnhsa2o1Z3ptOWkzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KKB54xpucNE4M/giphy.webp" alt="Studio Ghibli Character" width="350px"/>
+</td>
+
+
+
