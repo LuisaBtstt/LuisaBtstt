@@ -1,6 +1,6 @@
-
+<div align="center">
 # Welcome to my profile <img src="https://media.tenor.com/AjfRZZrv_uMAAAAj/cute-anime.gif" width="35"> 
-
+</div>
 <div align="center">
 
   # About me:
