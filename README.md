@@ -44,10 +44,10 @@ if (you === "Need Developer") {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisaBtstt4&show_icons=true&theme=holi&locale=en&layout=compact" alt="LuísaBtstt" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisaBtstt4&show_icons=true&theme=holi&locale=en&layout=compact" alt="LuisaBtstt"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LuisaBtstt&show_icons=true&theme=holi&locale=en" alt="LuisaBtstt" />
+      <img src="https://github-readme-stats.vercel.app/api?username=LuisaBtstt&show_icons=true&theme=holi&locale=en" alt="LuisaBtstt"/>
     </td>
   </tr>
 </table>
